@@ -26,9 +26,6 @@ This project develops a formal economic and computational framework for **equity
 
 ## Motivation
 
-> [!NOTE]
-> Institutional appetite for tokenized financial assets on Ethereum is strong and growing -- making these research questions commercially urgent rather than speculative.
-
 | Development | Signal |
 |:---|:---|
 | BlackRock BUIDL fund | ~$2.9B AUM within first year on Ethereum |
@@ -126,8 +123,6 @@ Month   1          3          6          10         12
 
 ## Related Publications
 
-> These publications demonstrate expertise in mean-field game modeling, perpetual derivative design, stablecoin mechanism design, and calibration of agent-based models to real market data. The proposed project is a natural extension of this research program.
-
 1. **H. Mohanty** and B. Krishnamachari, "Who Restores the Peg? A Mean-Field Game Approach to Model Stablecoin Market Dynamics," *arXiv:2601.18991*, 2026. Accepted at *IEEE ICBC 2026*.
    [[arXiv]](https://arxiv.org/abs/2601.18991)
 
@@ -139,27 +134,9 @@ Month   1          3          6          10         12
 
 ---
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{mohanty2026equityperps,
-  author       = {Mohanty, Hardhik},
-  title        = {Beyond Brokerage Hours: Credibly Neutral 24/7 Equity Markets on Ethereum},
-  year         = {2026},
-  howpublished = {\url{https://github.com/ANRGUSC/onchain-equity-perps}},
-  note         = {Ethereum Foundation PhD Fellowship proposal}
-}
-```
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-All research outputs will be open-access and permissively licensed, consistent with Ethereum Foundation fellowship requirements.
 
 ---
 

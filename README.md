@@ -6,24 +6,13 @@
 
 *Platform Commitment, Perpetual Instrument Design, and Decentralized Value Allocation for Tokenized Equity Access*
 
-<br>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Ethereum](https://img.shields.io/badge/Ethereum-Foundation%20PhD%20Fellowship-3C3C3D?logo=ethereum&logoColor=white)](https://ethereum.org)
-[![arXiv](https://img.shields.io/badge/arXiv-2601.18991-b31b1b.svg)](https://arxiv.org/abs/2601.18991)
-[![USC](https://img.shields.io/badge/USC-Viterbi%20School%20of%20Engineering-990000)](https://viterbischool.usc.edu/)
-
-<br>
-
-**[Website](https://hardhik-99.github.io/hmohanty/)** | **[Google Scholar](https://scholar.google.com/citations?user=99B3RkcAAAAJ&hl=en)** | **[Advisor](https://ceng.usc.edu/~bkrishna/)** | **[Lab (ANRG)](https://github.com/ANRGUSC)**
-
 </div>
 
 <br>
 
 > **Hardhik Mohanty** -- PhD Student, Electrical and Computer Engineering, University of Southern California
 >
-> Advisor: Prof. Bhaskar Krishnamachari
+> Advisor: Prof. Bhaskar Krishnamachari | [Google Scholar](https://scholar.google.com/citations?user=99B3RkcAAAAJ&hl=en)
 >
 > *Ethereum Foundation PhD Fellowship -- RFP: Economic Models Enabled by Decentralized Trust Systems*
 

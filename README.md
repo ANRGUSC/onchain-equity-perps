@@ -28,11 +28,11 @@ This project develops a formal economic and computational framework for **equity
 
 | Development | Signal |
 |:---|:---|
-| BlackRock BUIDL fund | ~$2.9B AUM within first year on Ethereum |
-| Robinhood tokenized stocks | Launched on Ethereum L2 (Arbitrum) for EU users |
-| DTCC no-action letter | SEC-approved pilot for securities tokenization |
-| Cboe 24x5 filing | Near round-the-clock U.S. equities trading |
-| SEC staff statement (Jan 2026) | Taxonomy for tokenized vs. issuer-tokenized securities |
+| BlackRock BUIDL fund | Surpassed $1B AUM within about one year of its March 2024 Ethereum launch; later expanded multi-chain |
+| Robinhood tokenized stocks | Launched for EU users, initially using Arbitrum-based infrastructure |
+| DTCC no-action letter | SEC staff granted time-limited no-action relief for DTC's preliminary tokenization service |
+| Cboe 24x5 filing | Filed with the SEC to launch near 24x5 U.S. equities trading on EDGX |
+| SEC staff statement (Jan. 30, 2026) | Outlined a two-part taxonomy: issuer-tokenized and third-party tokenized securities |
 
 ---
 

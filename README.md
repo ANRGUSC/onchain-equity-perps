@@ -96,14 +96,6 @@ The model includes **six agent classes**: global directional traders, passive/ac
 
 ## Timeline
 
-```
-Month   1          3          6          10         12
-  |----------|----------|----------|----------|
-  MS1        MS2        MS3                   MS4
-  Literature  Formal     MFG Model +          Paper +
-  + Data      Org Model  Calibration          Release
-```
-
 | Milestone | Months | Focus |
 |:---|:---:|:---|
 | **MS1** -- Literature & Data | 1--3 | Structured literature review, institutional case studies, data pipeline construction |

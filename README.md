@@ -10,7 +10,7 @@
 
 <br>
 
-> *Application to Ethereum Foundation PhD Fellowship -- RFP: Economic Models Enabled by Decentralized Trust Systems*
+<p align="center"><em>Application to Ethereum Foundation PhD Fellowship -- RFP: Economic Models Enabled by Decentralized Trust Systems</em></p>
 
 ---
 

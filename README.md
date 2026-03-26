@@ -10,11 +10,7 @@
 
 <br>
 
-> **Hardhik Mohanty** -- PhD Student, Electrical and Computer Engineering, University of Southern California
->
-> Advisor: Prof. Bhaskar Krishnamachari | [Google Scholar](https://scholar.google.com/citations?user=99B3RkcAAAAJ&hl=en)
->
-> *Ethereum Foundation PhD Fellowship -- RFP: Economic Models Enabled by Decentralized Trust Systems*
+> *Application to Ethereum Foundation PhD Fellowship -- RFP: Economic Models Enabled by Decentralized Trust Systems*
 
 ---
 

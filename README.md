@@ -47,15 +47,11 @@ This project develops a formal economic and computational framework for **equity
 
 <br>
 
-<details>
-<summary><b>Hypotheses (click to expand)</b></summary>
-<br>
+**Hypotheses:**
 
 - **H1.** Credibly neutral fee and access commitments increase third-party liquidity provision and reduce rent extraction relative to centralized extended-hours platforms.
 - **H2.** Equity-linked perpetuals are a more scalable form of 24/7 global equity exposure than spot-token wrappers in settings where corporate-action and register-management frictions are material.
 - **H3.** A hybrid design combining continuous trading with event-sensitive auction windows produces better price-discovery efficiency and lower adverse-selection costs than pure continuous trading during low-liquidity hours.
-
-</details>
 
 ---
 
@@ -75,17 +71,13 @@ WS4  Empirical Calibration       After-hours equity, crypto perps, on-chain toke
 
 The model includes **six agent classes**: global directional traders, passive/active liquidity providers, market makers, front-end operators, oracle/attestation providers, and protocol maintainers.
 
-<details>
-<summary><b>Planned datasets (click to expand)</b></summary>
-<br>
+**Planned datasets:**
 
 | Source | Data | Access |
 |:---|:---|:---|
 | NYSE TAQ (WRDS) | After-hours bid-ask spreads, depth, trade counts, price impact | USC institutional subscription |
 | Binance & dYdX | Funding rates, basis, order-book snapshots, liquidation events | Public REST & WebSocket APIs |
 | Arbitrum / Etherscan | Robinhood tokenized stock transactions, Kraken xStocks (Backed Finance) | Dune Analytics, on-chain |
-
-</details>
 
 ---
 

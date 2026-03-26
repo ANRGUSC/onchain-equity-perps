@@ -28,7 +28,7 @@ This project develops a formal economic and computational framework for **equity
 
 | Development | Signal |
 |:---|:---|
-| BlackRock BUIDL fund | Surpassed $1B AUM within about one year of its March 2024 Ethereum launch; later expanded multi-chain |
+| BlackRock BUIDL fund | Surpassed $1B AUM within about one year of its March 2024 Ethereum launch |
 | Robinhood tokenized stocks | Launched for EU users, initially using Arbitrum-based infrastructure |
 | DTCC no-action letter | SEC staff granted time-limited no-action relief for DTC's preliminary tokenization service |
 | Cboe 24x5 filing | Filed with the SEC to launch near 24x5 U.S. equities trading on EDGX |
